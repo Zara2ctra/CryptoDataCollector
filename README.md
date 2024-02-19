@@ -24,7 +24,7 @@ CryptoDataCollector - это приложение на основе NestJS, ко
 
 #### 1. Клонируйте репозиторий:
 ```bash
-   git clone https://github.com/your-username/CryptoDataCollector.git
+git clone https://github.com/your-username/CryptoDataCollector.git
 ```
 
 #### 2. Установите зависимости:
